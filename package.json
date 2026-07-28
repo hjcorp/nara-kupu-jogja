@@ -1,0 +1,9 @@
+{
+  "name": "nara-kupu-jogja",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page & CRUD member/event Nara Kupu Jogja (Vercel + Upstash Redis)",
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
